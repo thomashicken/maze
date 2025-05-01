@@ -1,0 +1,16 @@
+WIDTH = 100
+SIZE = (701, 701)
+COLS = SIZE[0] // WIDTH
+ROWS = SIZE[1] // WIDTH
+
+# Display settings
+AGENT_SIZE = WIDTH // 2
+START_END_SIZE = WIDTH // 2
+
+# Colors
+WHITE = (255, 255, 255)
+GREY = (200, 200, 200)
+BLACK = (0, 0, 0)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
